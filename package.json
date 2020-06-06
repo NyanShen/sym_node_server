@@ -1,0 +1,27 @@
+{
+  "name": "sym_node_server",
+  "version": "1.0.0",
+  "description": "node serve",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NyanShen/sym_node_server.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "koa"
+  ],
+  "author": "nyan shen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NyanShen/sym_node_server/issues"
+  },
+  "homepage": "https://github.com/NyanShen/sym_node_server#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
