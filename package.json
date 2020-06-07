@@ -23,5 +23,11 @@
   "homepage": "https://github.com/NyanShen/sym_node_server#readme",
   "devDependencies": {
     "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.12",
+    "sequelize-cli": "^5.5.1"
   }
 }
